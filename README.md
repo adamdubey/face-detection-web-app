@@ -1,3 +1,25 @@
+# face-detection-web-app
+
+## Getting Started
+
+```sh
+npm run start
+# in browser, visit http://localhost:3000
+# to STOP, Ctrl+C in Terminal
+```
+
+## Technologies & Frameworks
+
+- [Clarafai](https://www.clarifai.com/)
+- [Create React App](https://create-react-app.dev/)
+- [Docker](https://www.docker.com/)
+- [React.js](https://reactjs.org/)
+- [Particles.js](https://vincentgarreau.com/particles.js/)
+- [Tilt.js](https://gijsroge.github.io/tilt.js/)
+- [Tachyons](https://tachyons.io/)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
