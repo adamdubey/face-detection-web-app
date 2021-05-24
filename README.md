@@ -2,11 +2,24 @@
 
 ## Getting Started
 
+0. Signup for Clarafai API Key
+1. Create `.env` file and add the Clarafai API Key `REACT_APP_CLARIFAI_API_KEY = 'xxxxxxxxxxx'`
+2. Include API key in `App.js`
+3. Install project dependencies:
+
+```sh
+npm i
+```
+
+4. Start the app:
+
 ```sh
 npm run start
 # in browser, visit http://localhost:3000
 # to STOP, Ctrl+C in Terminal
 ```
+
+---
 
 ## Technologies & Frameworks
 
